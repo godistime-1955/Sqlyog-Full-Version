@@ -241,4 +241,4 @@ This repository serves as the official landing page for SQLyog. The software is 
 **Get the most recent version of SQLyog today!**
 
 ---
-**Last updated:** 2026-09-12 02:13:30 UTC
+**Last updated:** 2026-09-12 07:27:48 UTC
